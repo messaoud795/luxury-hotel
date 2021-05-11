@@ -320,7 +320,7 @@ footer {
 
 .contact__info {
   display: flex;
-  width: 60%;
+  width: 90%;
 }
 .contact__info:not(:last-child) {
   margin-bottom: 1rem;
@@ -390,9 +390,6 @@ footer {
   }
   .contact {
     width: 100%;
-  }
-  .contact__info {
-    width: 90%;
   }
 }
 /* max screen width 600px  phone*/
